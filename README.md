@@ -25,7 +25,7 @@ This project introduces a new approach to user research by using AI and automate
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/koconder/synthetic-user-research.git
+git clone https://github.com/imnot4real/synthetic-user-research.git
 cd synthetic-user-research
 ```
 
